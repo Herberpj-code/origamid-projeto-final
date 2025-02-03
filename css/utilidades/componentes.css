@@ -1,4 +1,17 @@
 
+/* Container padrão */
+
+.container {
+    max-width: 1200px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+
+
+
 /* Botão da Home */
 .botao {
     padding: 16px 32px;
@@ -24,3 +37,5 @@
     }
 
 }
+
+
