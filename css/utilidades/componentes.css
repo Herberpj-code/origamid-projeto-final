@@ -25,6 +25,7 @@
     font-family: 'Poppins';
     font-weight: 600;
     display: inline-block;
+    max-width: max-content;
 }
 
 .botao.secundario {
